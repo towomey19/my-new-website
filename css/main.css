@@ -1,1 +1,8 @@
 /* Place CSS styles here */
+body {
+    background-color: lightcyan;
+}
+
+img {
+    width: 300px;
+}
