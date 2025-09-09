@@ -1,8 +1,56 @@
 /* Place CSS styles here */
 body {
     background-color: lightcyan;
+    font-size: 16px;
 }
 
 img {
     width: 300px;
+}
+
+a {
+    color: #300a53;
+}
+
+a:hover {
+    color: #bd118c;
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+p {
+color: #461700;
+}
+
+h1 {
+color: #fffcf6;
+background-color: #024f52;
+text-align: center;
+border: 1px solid #fffcf6;
+}
+
+div p {
+
+}
+
+.wrapper {
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+background-color: #45a3a6;
+padding: 20px;
+}
+
+.home-links {
+
+}
+
+#top {
+
 }
