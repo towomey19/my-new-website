@@ -5,7 +5,7 @@ body {
 }
 
 img {
-    width: 300px;
+    width: 250px;
 }
 
 a {
@@ -30,9 +30,17 @@ color: #461700;
 
 h1 {
 color: #fffcf6;
+text-shadow: 1px 2px 3px #45a3a6;
 background-color: #024f52;
 text-align: center;
 border: 1px solid #fffcf6;
+font-size: 70px;
+}
+
+h2 {
+color: #024f52;
+text-shadow: 1px 2px 3px #fffcf6;
+font-size: 44px;
 }
 
 div p {
@@ -43,6 +51,7 @@ div p {
 max-width: 800px;
 margin-left: auto;
 margin-right: auto;
+margin-bottom: 100px;
 background-color: #45a3a6;
 padding: 20px;
 }
